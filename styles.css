@@ -54,7 +54,7 @@ header{
     height: 40px;
     border-radius: 20px;
     background-color: rgb(39, 38, 38);
-    position: relative;
+    position: fixed;
 }
 
 .flicker{
